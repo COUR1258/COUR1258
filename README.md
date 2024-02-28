@@ -1,31 +1,52 @@
-### Hi there 👋
+<img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" style="border-radius: 50%;"/>
 
-[![统计卡片](https://github-readme-stats.vercel.app/api?username=cour125822&count_private=true&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">🎉 欢迎来到我的地盘 🎉</h3>
 
-# 置顶的仓库
+<h6 align="center">业余程序员，日常躺平状态</h6>
 
-[![仓库](https://github-readme-stats.vercel.app/api/pin/?username=cour1258&repo=cour-cli&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![仓库](https://github-readme-stats.vercel.app/api/pin/?username=cour1258&repo=cour-cli&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">-- 概述 --</h3>
 
-[![仓库](https://github-readme-stats.vercel.app/api/pin/?username=cour1258&repo=cour-cli&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://ghchart.rshah.org/409ba5/cour1258" alt="cour1258's Github chart" style="width:100%" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=cour125822&count_private=true&show_icons=true&locale=cn&card_width=1000&hide_border=true&hide_title=true" style="width:100%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cour1258&layout=compact&card_width=1000&hide_border=true&hide_title=true"  style="width:100%" />
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+---
 
-![Static Badge](https://img.shields.io/badge/:Python)
+<h3 align="center">-- 技能 --</h3>
 
-![Endpoint Badge](https://img.shields.io/endpoint)
+<h5 align="center">语言</h5>
 
-![AUR Last Modified](https://img.shields.io/aur/last-modified/:packageName)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cour1258&theme=github&custom_title=最近的活动&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
+<img src="https://img.shields.io/badge/HTML-E34F26?logoColor=white&style=for-the-badge&logo=htmx" />
+<img src="https://img.shields.io/badge/CSS-1572B6?logoColor=white&style=for-the-badge&logo=csswizardry" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=white&style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Nodejs-339933?logoColor=white&style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/Java-FC4C02?logoColor=white&style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Python-3776AB?logoColor=white&style=for-the-badge&logo=python" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&weight=800&size=18&pause=1000&color=134359&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%E5%8A%A8%E6%80%81%E6%98%BE%E7%A4%BA%E7%9A%84%E5%AD%97%E4%BD%93)](https://git.io/typing-svg)
+<h5 align="center">框架</h5>
+
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
+<img src="https://img.shields.io/badge/vue-4FC08D?logoColor=white&style=for-the-badge&logo=vuedotjs" />
+<img src="https://img.shields.io/badge/electron-47848F?logoColor=white&style=for-the-badge&logo=electron" />
+<img src="https://img.shields.io/badge/spring boot-6DB33F?logoColor=white&style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/django-092E20?logoColor=white&style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/flask-000000?logoColor=white&style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/webpack-8DD6F9?logoColor=white&style=for-the-badge&logo=webpack" />
+<img src="https://img.shields.io/badge/vite-646CFF?logoColor=white&style=for-the-badge&logo=vite" />
+</div>
+
+---
+
+<h3 align="center">-- 仓库 --</h3>
+
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cour1258&repo=cour-cli&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cour1258&repo=cour-cli&show_owner=true" />
+</div>
