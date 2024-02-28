@@ -1,5 +1,3 @@
-<img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" style="border-radius: 50%;"/>
-
 <h3 align="center">🎉 欢迎来到我的地盘 🎉</h3>
 
 <h6 align="center">业余程序员，日常躺平状态</h6>
